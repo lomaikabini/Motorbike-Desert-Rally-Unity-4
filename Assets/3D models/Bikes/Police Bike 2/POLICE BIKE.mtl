@@ -1,0 +1,218 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl cromo
+Ka  0.0 0.0 0.0
+Kd  0.3 0.2 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.3
+illum 2
+#
+newmtl negro_metal
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+# Multi/Sub evolution (2) to come 
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub evolution done 
+#
+# Multi/Sub Material__103 (2) to come 
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.3
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.3
+illum 2
+#
+# Multi/Sub Material__103 done 
+#
+# Multi/Sub guarda (3) to come 
+#
+newmtl guarda
+Ka  0.2 0.2 0.2
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__106
+Ka  0.1 0.1 0.1
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__107
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub guarda done 
+#
+newmtl white_glass
+Ka  0.1 0.1 0.1
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  10.0
+illum 2
+bump HDLIGHT.tga
+#
+newmtl orange_glass
+Ka  0.1 0.0 0.0
+Kd  0.8 0.6 0.0
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  10.0
+illum 2
+bump HDLIGHT.tga
+#
+newmtl glass
+Ka  0.0 0.0 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  10.0
+illum 2
+#
+newmtl red_glass
+Ka  0.1 0.0 0.0
+Kd  0.8 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  10.0
+illum 2
+bump HDLIGHT.tga
+#
+# Multi/Sub neumatico (2) to come 
+#
+newmtl neumatico
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.1
+illum 2
+bump huella.tif
+#
+newmtl Material__105
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+# Multi/Sub neumatico done 
+#
+newmtl blanco
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub matricula (2) to come 
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.3
+illum 2
+map_Kd HDMATRI.tif
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.3
+illum 2
+map_Kd HDMATRI.tif
+#
+# Multi/Sub matricula done 
+#
+newmtl cuero
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+newmtl deposito
+Ka  0.2 0.2 0.2
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub deposito (2) to come 
+#
+newmtl cromo
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__104
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd HDPVELO.tif
+#
+# Multi/Sub deposito done 
+#
+# EOF

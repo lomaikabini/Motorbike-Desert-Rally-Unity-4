@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 6eca6c443edd78f418b2631bbe82b637
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body_27
+    100002: Car_27_Interior_G
+    100004: Glass_27
+    100006: Glass_light
+    100008: Matte_27
+    100010: //RootNode
+    100012: Steering_wheel
+    100014: Taillights_27
+    100016: TopLights1
+    100018: TopLights2
+    100020: TopLights3
+    100022: TopLights4
+    100024: TopLights5
+    100026: TopLights6
+    100028: TopLights7
+    400000: Body_27
+    400002: Car_27_Interior_G
+    400004: Glass_27
+    400006: Glass_light
+    400008: Matte_27
+    400010: //RootNode
+    400012: Steering_wheel
+    400014: Taillights_27
+    400016: TopLights1
+    400018: TopLights2
+    400020: TopLights3
+    400022: TopLights4
+    400024: TopLights5
+    400026: TopLights6
+    400028: TopLights7
+    2300000: Body_27
+    2300002: Car_27_Interior_G
+    2300004: Glass_27
+    2300006: Glass_light
+    2300008: Matte_27
+    2300010: Steering_wheel
+    2300012: Taillights_27
+    2300014: TopLights1
+    2300016: TopLights2
+    2300018: TopLights3
+    2300020: TopLights4
+    2300022: TopLights5
+    2300024: TopLights6
+    2300026: TopLights7
+    3300000: Body_27
+    3300002: Car_27_Interior_G
+    3300004: Glass_27
+    3300006: Glass_light
+    3300008: Matte_27
+    3300010: Steering_wheel
+    3300012: Taillights_27
+    3300014: TopLights1
+    3300016: TopLights2
+    3300018: TopLights3
+    3300020: TopLights4
+    3300022: TopLights5
+    3300024: TopLights6
+    3300026: TopLights7
+    4300000: Taillights_27
+    4300002: Body_27
+    4300004: Car_27_Interior_G
+    4300006: Glass_light
+    4300008: Matte_27
+    4300010: Glass_27
+    4300012: Steering_wheel
+    4300014: TopLights1
+    4300016: TopLights2
+    4300018: TopLights3
+    4300020: TopLights4
+    4300022: TopLights5
+    4300024: TopLights6
+    4300026: TopLights7
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 33559c61e4538564794a06a0c2506a02
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackWheel
+    100002: Body
+    100004: FrontWheel
+    100006: //RootNode
+    100008: Rear
+    100010: Steer
+    400000: BackWheel
+    400002: Body
+    400004: FrontWheel
+    400006: //RootNode
+    400008: Rear
+    400010: Steer
+    2300000: BackWheel
+    2300002: Body
+    2300004: FrontWheel
+    2300006: Rear
+    2300008: Steer
+    3300000: BackWheel
+    3300002: Body
+    3300004: FrontWheel
+    3300006: Rear
+    3300008: Steer
+    4300000: Body
+    4300002: FrontWheel
+    4300004: Rear
+    4300006: Steer
+    4300008: BackWheel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

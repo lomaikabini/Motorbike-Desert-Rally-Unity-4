@@ -1,0 +1,123 @@
+# 
+# 
+newmtl motorbike_police_fron_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_poli_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_back_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_chro_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_whee_motorbike_police_.327
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_wheels_d.dds
+
+
+newmtl motorbike_police_logo_motorbike_police_.065
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd motorbike_police_logo_d.dds
+
+
+newmtl motorbike_police_righ_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_side_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_left_motorbike_police_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd motorbike_police_d.dds
+
+
+newmtl motorbike_police_glas_motorbike_police_.040
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd motorbike_police_glass_d.dds
+
+

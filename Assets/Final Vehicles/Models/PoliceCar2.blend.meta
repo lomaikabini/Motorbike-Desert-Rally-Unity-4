@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 6523c32fc07180e40ba903bb33f87f89
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: body
+    100002: interior
+    100004: //RootNode
+    100006: steering_wheel
+    100008: TopLights1
+    100010: TopLights2
+    100012: TopLights3
+    100014: TopLights4
+    100016: TopLights5
+    100018: TopLights6
+    100020: TopLights7
+    400000: body
+    400002: interior
+    400004: //RootNode
+    400006: steering_wheel
+    400008: TopLights1
+    400010: TopLights2
+    400012: TopLights3
+    400014: TopLights4
+    400016: TopLights5
+    400018: TopLights6
+    400020: TopLights7
+    2300000: body
+    2300002: interior
+    2300004: steering_wheel
+    2300006: TopLights1
+    2300008: TopLights2
+    2300010: TopLights3
+    2300012: TopLights4
+    2300014: TopLights5
+    2300016: TopLights6
+    2300018: TopLights7
+    3300000: body
+    3300002: interior
+    3300004: steering_wheel
+    3300006: TopLights1
+    3300008: TopLights2
+    3300010: TopLights3
+    3300012: TopLights4
+    3300014: TopLights5
+    3300016: TopLights6
+    3300018: TopLights7
+    4300000: steering_wheel
+    4300002: interior
+    4300004: body
+    4300006: TopLights1
+    4300008: TopLights2
+    4300010: TopLights3
+    4300012: TopLights4
+    4300014: TopLights5
+    4300016: TopLights6
+    4300018: TopLights7
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

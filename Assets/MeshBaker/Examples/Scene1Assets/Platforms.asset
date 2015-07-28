@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d41887b1546f5c44ab54e7e65aad3bc, type: 3}
+  m_Name: Platforms
+  m_EditorClassIdentifier: 
+  combinedMaterialInfo:
+  - atlases:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    texPropertyNames:
+    - _MainTex
+    - _BumpMap
+    - _Illum
+  materials:
+  - {fileID: 2100000, guid: 84b39146cd1119c1a000ee884ada8c59, type: 2}
+  - {fileID: 2100000, guid: 7add3c6dcd117aa1a00026ba4ada8c59, type: 2}
+  - {fileID: 2100000, guid: 0c57597dcd117aa1a00026ba4ada8c59, type: 2}
+  - {fileID: 2100000, guid: fc0aa96dcd117aa1a00026ba4ada8c59, type: 2}
+  prefabUVRects:
+  - serializedVersion: 2
+    x: .535900116
+    y: .00129533675
+    width: .463059306
+    height: .576424897
+  - serializedVersion: 2
+    x: .535900116
+    y: .580310881
+    width: .266389191
+    height: .331606209
+  - serializedVersion: 2
+    x: .00104058278
+    y: .667098463
+    width: .266389191
+    height: .331606209
+  - serializedVersion: 2
+    x: .00104058278
+    y: .00129533675
+    width: .532778382
+    height: .663212419
+  resultMaterial: {fileID: 2100000, guid: f6ad02ad5ce6e4947a2c4b54a8973861, type: 2}
+  resultMaterials: []
+  doMultiMaterial: 0
+  fixOutOfBoundsUVs: 0
