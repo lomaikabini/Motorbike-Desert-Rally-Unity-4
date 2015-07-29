@@ -8,9 +8,9 @@ public class WaterSimple : MonoBehaviour
 {
 	void Update()
 	{
-		if( !GetComponent<Renderer>() )
+		if( !renderer )
 			return;
-		Material mat = GetComponent<Renderer>().sharedMaterial;
+		Material mat = renderer.sharedMaterial;
 		if( !mat )
 			return;
 			

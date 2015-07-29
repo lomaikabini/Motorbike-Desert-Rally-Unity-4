@@ -1,0 +1,21 @@
+Terrain Water Erosion
+Unity Editor Extension
+Version 1.0
+By Dmitry Soldatenkov
+
+Introduction:
+
+The Terrain Water Erosion component is a filter performing a realistic water erosion for Unity Terrain.
+Terrains which we use to see in real life contain footprints of water erosion and our eyes can detect them automatically. So, we want to see the same footprints in games. But it is impossible for most of the artists to make such terrain manually because water erosion is a long integral process influencing the whole surface simultaneously. The only way to make a terrain with water erosion is to model this process.
+
+Installation instructions:
+
+Open the Unity project in which you wish to use the Terrain Water Erosion and import the package into your project.
+
+Quick start guide:
+
+Attach the Terrain Water Erosion component to any Unity Terrain object either by dragging and dropping the script onto the terrain object or by selecting it through the Component/Scripts menu.
+
+Documentation:
+
+Full documentation is included with the Terrain Water Erosion in PDF format in the main component folder.

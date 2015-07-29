@@ -1,5 +1,3 @@
-#warning Upgrade NOTE: unity_Scale shader variable was removed; replaced 'unity_Scale.w' with '1.0'
-
 Shader "FX/Water (simple)" {
 Properties {
 	_horizonColor ("Horizon color", COLOR)  = ( .172 , .463 , .435 , 0)
@@ -43,7 +41,7 @@ v2f vert(appdata v)
 
 	// scroll bump waves
 	float4 temp;
-	temp.xyzw = v.vertex.xzxz * _WaveScale / 1.0 + _WaveOffset;
+	temp.xyzw = v.vertex.xzxz * _WaveScale / unity_Scale.w + _WaveOffset;
 	o.bumpuv[0] = temp.xy * float2(.4, .45);
 	o.bumpuv[1] = temp.wz;
 
