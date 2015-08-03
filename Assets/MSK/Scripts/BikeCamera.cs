@@ -28,11 +28,17 @@ public class BikeCamera : MonoBehaviour
 	float bikeAngle = 0f;
 
 	float valueForAngle =0f;
+
+	float bikeRot;
+
 	public LayerMask lineOfSightMask = 0;
+	GameData data;
 	void Start()
 	{
+		data = GameData.Get ();
 		lineOfSightMask = LayerMask.NameToLayer("Bike");
 		BikeScript = (BikeControl)target.GetComponent<BikeControl>();
+		bikeRot = BikeManager.instance.bikesContols [data.currentBike].transform.eulerAngles.x;
 	}
 
     void Update()
@@ -129,7 +135,9 @@ public class BikeCamera : MonoBehaviour
 			cameraCollDetector.transform.position = target.position + new Vector3(0, haight, 0)+ direction1 * targetDistance1;
 			
 			//for camera
-			transform.eulerAngles = new Vector3(Angle+bikeAngle+valueForAngle, yAngle, 0);
+			//Debug.Log(BikeManager.instance.bikesContols[data.currentBike].transform.eulerAngles.x);
+			bikeRot = Mathf.LerpAngle(bikeRot, BikeManager.instance.bikesContols[data.currentBike].transform.eulerAngles.x, Time.deltaTime*2f);
+			transform.eulerAngles = new Vector3(Angle+bikeAngle+valueForAngle+bikeRot, yAngle, 0);
 			var direction = Vector3.zero;
 			if(!isForShop)
             	direction = transform.rotation * -Vector3.forward;
