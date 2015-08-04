@@ -17,7 +17,7 @@ public class BikeManager : MonoBehaviour {
 	Transform bikePositions;
 	GameData data;
 
-	float cameraDistance = 4.78f;
+	float cameraDistance = 4.29f;
 	float cameraHeight = 1f;
 	float cameraAngle = 6f;
 
